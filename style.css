@@ -55,6 +55,14 @@ p {
 		    border-color: red green blue yellow;
 		        margin: 10px 50px;
     }
+    p:first-letter {
+        font-size: 24px;
+	    float: left;
+	    }
+
+	    p:first-line {
+	        font-weight: bold;
+		}
 
 	    a {
 	        text-decoration: none;
