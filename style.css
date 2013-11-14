@@ -3,6 +3,7 @@ body {
  font-family: arial, helvetica, sans-serif;
     font-size: 14px;
         color: black;
+	 background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
 	background-color:#ffc;
 	margins: 20px;
 	padding: 0;
