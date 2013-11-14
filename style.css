@@ -161,3 +161,8 @@ blockquote:before {
 	        content: url(images/jam.jpg);
 		}
 
+
+#footer {
+    clear: both;
+    }
+
