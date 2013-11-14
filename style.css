@@ -24,3 +24,7 @@ h1 {
 	    a {
 	        text-decoration: none;
 		}
+		strong {
+		    font-style: italic;
+		        text-transform: uppercase;
+			}
