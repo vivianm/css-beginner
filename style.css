@@ -47,9 +47,12 @@ h1 {
 
 
 p {
-    margin: 1px 5px 10px 20px;
-     border: 1px red solid;
-     font: italic bold 12px/2 courier;
+    font: 14px/1.5 "Times New Roman", times, serif;
+        padding: 30px 10px;
+	    border: 1px black solid;
+	        border-width: 1px 5px 5px 1px;
+		    border-color: red green blue yellow;
+		        margin: 10px 50px;
     }
 
 	    a {
