@@ -108,3 +108,9 @@ a:link {
 
 				    li { display: inline }
 
+
+#navigation a {
+    display: block;
+        padding: 20px 10px;
+	}
+
