@@ -49,6 +49,7 @@ h1 {
 p {
     margin: 1px 5px 10px 20px;
      border: 1px red solid;
+     font: italic bold 12px/2 courier;
     }
 
 	    a {
