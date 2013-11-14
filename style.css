@@ -136,6 +136,8 @@ blockquote:before {
 
 	li:before {
 	    content: "POW! ";
+	    background: red;
+	        color: #fc0;
 	    }
 
 	    p:before {
