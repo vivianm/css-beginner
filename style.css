@@ -45,6 +45,11 @@ h1 {
 					    border-color: #ccc;
 					    }
 
+
+p {
+    margin: 1px 5px 10px 20px;
+    }
+
 	    a {
 	        text-decoration: none;
 		}
