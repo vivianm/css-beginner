@@ -125,3 +125,20 @@ a:link {
 
 #navigation, #related_links { display: none }
 
+
+blockquote:before {
+    content: open-quote;
+    }
+
+    blockquote:after {
+        content: close-quote;
+	}
+
+	li:before {
+	    content: "POW! ";
+	    }
+
+	    p:before {
+	        content: url(images/jam.jpg);
+		}
+
