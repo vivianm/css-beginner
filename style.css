@@ -114,3 +114,6 @@ a:link {
         padding: 20px 10px;
 	}
 
+
+#navigation, #related_links { display: none }
+
