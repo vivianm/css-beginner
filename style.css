@@ -130,6 +130,12 @@ a:link {
 	    left: 0;
 	        width: 200px;
 		}
+		#navigation2 {
+		    position: absolute;
+		        top: 0;
+			    right: 0;
+			        width: 200px;
+				}
 
 		#content {
 		    margin-left: 200px;
