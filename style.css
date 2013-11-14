@@ -11,10 +11,13 @@ body {
 	p{
 	line-height: 21px;
 	}
+	#top {
+	    background-color: #ccc;
+	        padding: 1em
+		}
 
 h1 {
  font-size: 2em;
-    color: #ffc;
         background-color: #900;
 	margin: 0;
 	    margin-bottom: 7px;
