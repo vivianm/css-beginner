@@ -16,6 +16,13 @@ body {
 
 		    }
 
+		    @media screen and (max-width: 1000px) {
+
+		        #content { width: 100% }
+
+			}
+
+
 
 
 	@media print {
