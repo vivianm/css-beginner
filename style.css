@@ -282,6 +282,8 @@ background-image: url(this.jpg), url(that.gif), url(theother.png);
 
 background: linear-gradient(orange, red);
 
+background: linear-gradient(to right, orange, red);
+
 				
 #footer {
     clear: both;
