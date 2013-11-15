@@ -168,6 +168,12 @@ blockquote:before {
 	    border-radius: 10px;
 	    }
 
+#ok_a_border_then {
+    border: 5px solid #8b2;
+        padding: 20px;
+	    border-radius: 5px;
+	    }
+
 
 #footer {
     clear: both;
