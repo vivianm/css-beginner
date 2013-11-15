@@ -280,6 +280,8 @@ background-image: url(this.jpg), url(that.gif), url(theother.png);
 	    transform: matrix(2,-0.35,0.35,2,0,0);
 	    }
 
+background: linear-gradient(orange, red);
+
 				
 #footer {
     clear: both;
