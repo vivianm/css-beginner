@@ -210,6 +210,12 @@ text-shadow: -2px 2px 2px #999;
 
 h1 + p { font-weight: bold }
 
+h1 {
+    padding: 50px;
+        background-image: url(snazzy.jpg);
+	    color: rgba(0,0,0,0.8);
+	    }
+
 
 				
 #footer {
