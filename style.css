@@ -208,6 +208,8 @@ text-shadow: -2px 2px 2px #999;
 
 #genus_examples > li { border: 1px solid red }
 
+h1 + p { font-weight: bold }
+
 
 				
 #footer {
