@@ -284,6 +284,8 @@ background: linear-gradient(orange, red);
 
 background: linear-gradient(to right, orange, red);
 
+background: linear-gradient(to bottom right, orange, red);
+
 				
 #footer {
     clear: both;
