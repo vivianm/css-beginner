@@ -1,13 +1,10 @@
 
 body {
- font-family: arial, helvetica, sans-serif;
-    font-size: 14px;
-        color: black;
-	 background: white url(http://www.htmldog.com/images/bg.gif) no-repeat top right;
-	background-color:#ffc;
-	margins: 20px;
-	padding: 0;
-	}
+    background: #666 url(fade.png) 0 0 repeat-y;
+        background: -webkit-linear-gradient(right, #000, #666); 
+	    background: linear-gradient(to right, #000, #666);
+	    }
+
 
 	@media print {
 	    body {
