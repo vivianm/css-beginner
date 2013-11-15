@@ -242,6 +242,8 @@ h1 {
 	        font-style: normal;
 		}
 
+abbr[title] { border-bottom: 1px dotted #ccc }
+
 				
 #footer {
     clear: both;
