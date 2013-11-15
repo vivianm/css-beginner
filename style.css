@@ -220,6 +220,8 @@ h1 {
 
 #rabbit { background: hsla(0, 75%, 75%, 0.5) }
 
+@import url(morestyles.css);
+
 
 				
 #footer {
