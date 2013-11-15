@@ -286,6 +286,8 @@ background: linear-gradient(to right, orange, red);
 
 background: linear-gradient(to bottom right, orange, red);
 
+background: linear-gradient(20deg, orange, red);
+
 				
 #footer {
     clear: both;
