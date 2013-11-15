@@ -247,6 +247,11 @@ abbr[title] { border-bottom: 1px dotted #ccc }
 
 input[type=text][disabled] { border: 1px solid #ccc }
 
+a[href^=http] {
+    padding-right: 10px;
+        background: url(arrow.png) right no-repeat;
+	}
+
 
 				
 #footer {
