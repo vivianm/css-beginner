@@ -346,6 +346,12 @@ background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),h
 
     }
 
+@media (device-pixel-ratio: 2) {
+
+    body { background: url(twiceasbig.png) }
+
+    }
+
 				
 #footer {
     clear: both;
