@@ -244,6 +244,8 @@ h1 {
 
 abbr[title] { border-bottom: 1px dotted #ccc }
 
+input[type=text] { width: 200px; }
+
 				
 #footer {
     clear: both;
