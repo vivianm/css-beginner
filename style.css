@@ -263,6 +263,8 @@ a:link {
 	}
 
 
+background-image: url(this.jpg), url(that.gif), url(theother.png);
+
 				
 #footer {
     clear: both;
