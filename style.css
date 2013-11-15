@@ -7,10 +7,15 @@ body {
 	    background: linear-gradient(135deg, hsl(36,100%,50%) 10%, hsl(72,100%,50%) 60%, white 90%);
 	    background: repeating-radial-gradient(#8b2, #8b2 10px, #e90 10px, #e90 20px);
 
-
-
-
 	    }
+
+	    @media screen {
+
+	        body { font: 12px arial, sans-serif }
+		    #nav { display: block }
+
+		    }
+
 
 
 	@media print {
