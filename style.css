@@ -244,7 +244,9 @@ h1 {
 
 abbr[title] { border-bottom: 1px dotted #ccc }
 
-input[type=text] { width: 200px; }
+
+input[type=text][disabled] { border: 1px solid #ccc }
+
 
 				
 #footer {
