@@ -253,7 +253,8 @@ a[href^=http] {
 	}
 
 a:link {
-    color: hsl(36,50%,50%);
+     transition: .5s;
+     transition-property: color, font-size;
     }
     a:hover {
         color: hsl(36,100%,50%);
