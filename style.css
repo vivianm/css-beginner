@@ -252,6 +252,13 @@ a[href^=http] {
         background: url(arrow.png) right no-repeat;
 	}
 
+a:link {
+    color: hsl(36,50%,50%);
+    }
+    a:hover {
+        color: hsl(36,100%,50%);
+	}
+
 
 				
 #footer {
