@@ -191,6 +191,9 @@ blockquote:before {
 			        border-bottom-right-radius: 50px;
 				}
 				box-shadow: 5px 5px 3px 1px #999
+
+				box-shadow: inset 0 0 7px 5px #ddd;
+
 				
 #footer {
     clear: both;
