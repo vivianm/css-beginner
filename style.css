@@ -288,6 +288,8 @@ background: linear-gradient(to bottom right, orange, red);
 
 background: linear-gradient(20deg, orange, red);
 
+background: linear-gradient(hsl(0,100%,50%),hsl(60,100%,50%),hsl(120,100%,50%),hsl(180,100%,50%),hsl(240,100%,50%),hsl(300,100%,50%));
+
 				
 #footer {
     clear: both;
