@@ -2,8 +2,9 @@
 body {
     background: #666 url(fade.png) 0 0 repeat-y;
         background: -webkit-linear-gradient(right, #000, #666); 
-	    background: linear-gradient(to right, #000, #666);
-	    background: radial-gradient(circle closest-side at 100px 200px , black, white);
+	    background: linear-gradient(to right, #000, #666);	    
+	    background: -webkit-radial-gradient(100px 200px, circle closest-side, black, white);
+
 
 	    }
 
