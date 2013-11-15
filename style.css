@@ -235,6 +235,13 @@ h1 {
 @import url(morestyles.css);
 
 
+@font-face {
+    font-family: "font of all knowledge";
+        src: local("font of all knowledge"), local(fontofallknowledge), url(fontofallknowledge.woff);
+	    font-weight: 400;
+	        font-style: normal;
+		}
+
 				
 #footer {
     clear: both;
